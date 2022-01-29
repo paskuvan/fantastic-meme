@@ -29,5 +29,6 @@ export default makeStyles((theme) => ({
   },
   toolbar: {
     display: 'flex', justifyContent: 'space-between',
+    backgroundColor: 'rgba(27,86,47)',
   },
 }));
